@@ -1,7 +1,7 @@
 /**
  * This class calculates pi given a certain precision, the smaller epsilon is, the more accurate the value of pi
  *
- * @author Ahmed Attar, 250726961
+ * @author Adam Makaoui
  * @date 15th/Nov/2018
  */
 
