@@ -1,17 +1,6 @@
 /*
- * Partial Double linked-list implementation in C11
- * Course CSC 360, University of Vicoria (thank you Amir!)
- *
- * Assignment number 01, Part 1, Jan 2020
- *
- * Use this command to compile the code:
- * gcc -std=c11 -pedantic-errors doubletroublelist.c -o dList
- *
- * Execute the program with command:
- * ./dList
- *
-
- *  * Your task is to complete the swap and shift_left functions
+ * Implementation of a doubly linked List with multiple features of list manipulation
+ * @author Adam Makaoui
  *
  * Expected output:
  * Intial list: 2 3 4 5 8 11 14 14
