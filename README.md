@@ -1,5 +1,5 @@
 # C-Bash
-## Contains Code in both C &amp; Shell code when I was learning about Systems Programming
+## Contains Code in both C &amp; Shell code
 
 * SI_converter.c is a program used to convert code from imperial to SI units
 * exp_calculator.c is a program used to compute the power of a base
