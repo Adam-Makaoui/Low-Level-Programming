@@ -1,7 +1,7 @@
 /**
  * This class creates a bst given any data
  *
- * @author Ahmed Attar, 250726961
+ * @author Adam M., 250726961
  */
 
 #include <stdio.h>
