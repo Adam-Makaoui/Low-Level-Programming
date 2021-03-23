@@ -1,7 +1,7 @@
 /**
  * This class contains methods for constructing a bst
  *
- * @author Ahmed Attar, 250726961
+ * @author Adam M., 250726961
  */
 
 #include <stdio.h>
